@@ -1,4 +1,4 @@
-# Decentralized Funding Raising Platform
+# Funding Raising Platform
 
 ## Contributors
 | Name |
